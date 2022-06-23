@@ -1,0 +1,53 @@
+{
+      "books": [
+        {
+            "BookId":1,
+            "url":"https://5.imimg.com/data5/IU/SQ/GD/SELLER-43618059/book-cover-page-design-500x500.jpg",
+            "title": "Northanger Abbey", 
+            "author": "Austen, Jane", 
+            "year_written": 1814,
+        "genre": "Thriller", 
+        "review":"Good",
+        "quantity_available":5,
+        "price":  18.2
+          },
+         {
+            "BookId" :2,
+            "url":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/action-thriller-book-cover-design-template-3675ae3e3ac7ee095fc793ab61b812cc_screen.jpg?ts=1637008457",
+            "title": "War and Peace",
+             "author": "Tolstoy, Leo",
+             "year_written": 1865, 
+             "genre": "Historical",
+             "review":"Good",
+             "quantity_available":10,
+             "edition": "",
+              "price":  12.7
+            },
+            {
+                "BookId"  :3,
+                "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPoh7tlnJTYMFptjY5JXo7S-fDgKC87JxhA&usqp=CAU",
+                "title": "Anna Karenina", 
+                "author": "Tolstoy, Leo", 
+                "year_written": 1875,
+                "genre": "Western",
+                "review":"Good",
+                "quantity_available":10,
+                 "edition": "Penguin", 
+                 "price":  13.5
+            },
+            {
+                "BookId" :4,
+                "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwy0PFhSRmu2FNxlqhx2tVNA1cNmFLU8tq-w&usqp=CAU",
+                "title": "Mrs. Dalloway", 
+                "author": "Woolf, Virginia", 
+                "year_written": 1925,
+                "genre": "Drama",
+                "review":"Good",
+                "quantity_available":10,
+                 "edition": "Harcourt Brace",
+                  "price":  25
+            }
+            
+           
+      ]
+    }
